@@ -1,0 +1,178 @@
+============================================================
+ATLAS CAPITAL MANAGEMENT
+PORTFOLIO RISK REPORT — EQUITY HOLDINGS
+
+CLASSIFICATION: ADMIN CONFIDENTIAL
+FOR INVESTMENT COMMITTEE USE ONLY
+NOT FOR CLIENT DISTRIBUTION
+
+Prepared by:  Risk Management Division
+Report Date:  February 28, 2025
+Period:       January 1, 2025 — February 28, 2025
+AUM Covered:  $62.4 billion (Total Firm AUM)
+============================================================
+
+
+SECTION 1 — EXECUTIVE RISK SUMMARY
+------------------------------------
+Overall Portfolio Risk:     MODERATE
+VaR (1-day, 95% confidence): $312 million  (0.50% of AUM)
+VaR (10-day, 99%):           $987 million  (1.58% of AUM)
+Maximum Drawdown (YTD):      -3.8%  (occurred Jan 13-17, 2025)
+Sharpe Ratio (YTD):          1.42
+Beta (vs S&P 500):           0.91
+
+Limit Breaches This Period:  1  (see Section 4)
+Margin Calls:                0
+Forced Liquidations:         0
+
+
+SECTION 2 — TOP 10 EQUITY POSITIONS (Confidential)
+----------------------------------------------------
+Rank  Ticker  Company                 Mkt Value    % AUM   Sector
+----  ------  ----------------------  -----------  ------  ----------------
+ 1    TNOV    TechNova Corp           $1.12B        1.80%   Technology
+ 2    GFBG    GreenFin Banking        $0.84B        1.35%   Financials
+ 3    HLTH    Horizon Health Systems  $0.78B        1.25%   Healthcare
+ 4    ENGX    EnergyX Corp            $0.71B        1.14%   Energy
+ 5    RTLG    RetailGiant Inc         $0.68B        1.09%   Consumer
+ 6    MFGP    ManufacturePro Ltd      $0.62B        0.99%   Industrials
+ 7    BIOX    BioSynth Pharma         $0.59B        0.95%   Healthcare
+ 8    CLDU    CloudUp Technologies    $0.55B        0.88%   Technology
+ 9    FINX    FinEdge Payments        $0.51B        0.82%   Financials
+10    AGRN    AgroNext Corp           $0.48B        0.77%   Agriculture
+
+TOP 10 TOTAL:  $6.88 billion  (11.03% of AUM)
+
+NOTES:
+- TNOV position size increased from 1.45% to 1.80% AUM following
+  Q4 2024 earnings beat. Within single-stock limit (2.0% AUM).
+- BIOX position approaching single-stock limit; monitor closely.
+- GFBG: AML inquiry creates tail risk. Position flagged for review.
+
+
+SECTION 3 — SECTOR ALLOCATION vs BENCHMARK
+--------------------------------------------
+Sector              Portfolio %   Benchmark %   Active Weight
+------------------  -----------   -----------   -------------
+Technology           28.4%         27.1%          +1.3%
+Financials           18.2%         13.8%          +4.4%  *
+Healthcare           14.9%         12.4%          +2.5%
+Consumer Disc.       11.3%         10.9%          +0.4%
+Industrials           9.8%         10.2%          -0.4%
+Energy                7.1%          4.8%          +2.3%
+Real Estate           4.2%          2.9%          +1.3%
+Materials             3.1%          2.5%          +0.6%
+Utilities             1.5%          3.1%          -1.6%
+Communication         1.5%         12.3%         -10.8% **
+
+* Financials overweight is intentional — Investment Committee conviction
+  on rate-cut beneficiaries in H2 2025.
+
+** Communication significantly underweight (no large-cap social media exposure
+   due to regulatory/ESG policy restrictions per IC directive, Nov 2024).
+
+
+SECTION 4 — RISK LIMIT BREACHES
+---------------------------------
+BREACH #1 (Minor):
+  Date:          January 28, 2025
+  Position:      BIOX (BioSynth Pharma)
+  Issue:         Single-sector Healthcare exposure reached 15.3%,
+                 exceeding the 15.0% soft limit.
+  Duration:      2 trading days
+  Resolution:    Reduced BIOX by 120,000 shares on Jan 30, 2025.
+                 Healthcare now at 14.9%. Within limits.
+  Escalated to:  CRO (Dr. Lisa internal alias — fictional)
+  Status:        RESOLVED
+
+No hard limit breaches recorded in the period.
+
+
+SECTION 5 — CONCENTRATED POSITION ANALYSIS
+--------------------------------------------
+Positions > 0.75% AUM require enhanced monitoring.
+
+TNOV (1.80% AUM = $1.12B):
+  Entry Date:      Multiple tranches 2022-2024
+  Cost Basis:      $138.40 (blended avg)
+  Current Price:   $219.80
+  Unrealized P&L:  +$504M  (+58.5%)
+  Analyst Rating:  BUY (upgraded Feb 5, 2025; see Research Note)
+  Risk Flags:      None — M&A announcement adds short-term headline risk
+  Action Required: Monitor post-SecureLayer acquisition integration risk
+
+GFBG (1.35% AUM = $0.84B):
+  Entry Date:      2021-2023 tranches
+  Cost Basis:      $38.20 (blended avg)
+  Current Price:   $52.35
+  Unrealized P&L:  +$264M  (+37.2%)
+  Risk Flags:      DOJ/FinCEN AML inquiry (disclosed in 10-K)
+  Action Required: Legal team monitoring. Stress scenario: -20% drawdown
+                   if enforcement action. Contingency: reduce to 0.8% AUM
+                   if charges filed.
+
+BIOX (0.95% AUM = $0.59B):
+  Entry Date:      2023-2024 tranches
+  Cost Basis:      $64.10
+  Current Price:   $91.40
+  Unrealized P&L:  +$170M  (+42.6%)
+  Risk Flags:      Phase 3 trial readout expected Q2 2025 (binary risk event)
+  Action Required: Consider reducing position to 0.6% AUM pre-trial to
+                   limit binary event risk.
+
+
+SECTION 6 — PERFORMANCE ATTRIBUTION (YTD, Feb 28, 2025)
+----------------------------------------------------------
+Portfolio Total Return (YTD):    +6.8%
+Benchmark (S&P 500, YTD):        +4.1%
+Alpha Generated:                 +2.7%
+
+TOP CONTRIBUTORS (YTD):
+  TNOV:  +$142M  (post-earnings upgrade; +12.8% stock return)
+  ENGX:  +$38M   (energy sector rally; +9.1% stock return)
+  HLTH:  +$31M   (healthcare outperformance; +7.4% stock return)
+
+TOP DETRACTORS (YTD):
+  RTLG:  -$44M   (consumer spending slowdown; -8.2% stock return)
+  FINX:  -$19M   (payments sector rotation; -4.7% stock return)
+  MFGP:  -$11M   (supply chain concerns; -2.3% stock return)
+
+
+SECTION 7 — STRESS TEST SCENARIOS
+------------------------------------
+Scenario              Probability   Portfolio Impact
+------------------    -----------   ----------------
+Soft Landing (base)   55%           +8% to +12% full-year return
+Mild Recession        25%           -5% to -12% drawdown
+Hard Recession        10%           -20% to -30% drawdown
+Rate Spike (+200bps)  5%            -8% to -15% (financials hurt)
+Geopolitical Shock    5%            -15% to -25% (energy hedge helps)
+
+TAIL RISK:
+  Worst 1% scenario loss (CVaR, 10-day): -$2.14B  (-3.4% of AUM)
+  This is within board-approved tail risk limit of -4.0% of AUM.
+
+
+SECTION 8 — COMPLIANCE NOTES
+------------------------------
+1. ESG Screening: 3 watchlist names cleared for investment (pending IC vote):
+   PTRL (PetroLink Corp) — awaiting board vote on ESG exception.
+2. Restricted List (Feb 2025): TNOV is NOT on restricted list despite M&A
+   announcement; Atlas Capital has no material non-public information (MNPI).
+   Research note (Feb 5) was published before announcement and based solely
+   on public information.
+3. Proxy Voting: Atlas will vote FOR TNOV-SecureLayer merger at any required
+   shareholder vote.
+4. Side Pockets: None active.
+
+============================================================
+CLASSIFICATION REMINDER:
+This document contains confidential portfolio and strategy information.
+Unauthorized distribution is prohibited. Store securely and destroy
+when no longer needed.
+
+DISCLAIMER: This is a fictional internal risk report created for
+demonstration and educational purposes only. Atlas Capital Management,
+all portfolio positions, and all named individuals are fictitious.
+============================================================
