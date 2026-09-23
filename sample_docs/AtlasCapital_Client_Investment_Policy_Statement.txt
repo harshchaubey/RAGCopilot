@@ -1,0 +1,237 @@
+============================================================
+ATLAS CAPITAL MANAGEMENT
+CLIENT INVESTMENT POLICY STATEMENT (IPS)
+
+CLASSIFICATION: PUBLIC / ALL EMPLOYEES
+This document template is shared with prospective clients.
+
+Version: 2.1 | Updated: January 2025
+============================================================
+
+
+INVESTMENT POLICY STATEMENT
+ATLAS CAPITAL MANAGEMENT — STANDARD EQUITY MANDATE
+
+SECTION 1 — PURPOSE AND SCOPE
+--------------------------------
+This Investment Policy Statement (IPS) establishes the framework,
+objectives, constraints, and guidelines for managing equity portfolios
+under Atlas Capital Management's Standard Equity Mandate.
+
+It is designed to:
+  1. Clearly communicate the investment philosophy and strategy
+  2. Define measurable performance expectations
+  3. Set boundaries on investment risk and permissible securities
+  4. Establish communication and reporting standards
+
+
+SECTION 2 — INVESTMENT PHILOSOPHY
+------------------------------------
+Atlas Capital Management subscribes to a fundamental, bottom-up investment
+philosophy with the following core tenets:
+
+2.1 Long-Term Orientation
+  We invest with a 3-5 year investment horizon. Short-term price fluctuations
+  are viewed as opportunities, not risks. We believe long-term value is
+  created by owning high-quality businesses at reasonable prices.
+
+2.2 Quality Focus
+  We define "quality" along three dimensions:
+    a) Business Quality:    Durable competitive advantages, pricing power,
+                            low capital intensity, large total addressable market.
+    b) Financial Quality:   Strong free cash flow generation, conservative
+                            leverage, high returns on invested capital (ROIC).
+    c) Management Quality:  Shareholder-aligned management, transparent
+                            communication, prudent capital allocation history.
+
+2.3 Valuation Discipline
+  We will not pay any price for a great business. We seek a margin of safety —
+  owning excellent businesses at prices that imply reasonable returns even
+  in conservative scenarios. Our IRR (Internal Rate of Return) hurdle for
+  new positions: minimum 15% annualized over 5 years.
+
+2.4 Concentrated-But-Diversified
+  Our typical portfolio holds 25-40 positions. This provides meaningful
+  diversification while maintaining enough concentration to drive alpha.
+  We believe that owning your 40th-best idea dilutes returns.
+
+2.5 ESG Integration
+  Environmental, Social, and Governance factors are integrated into our
+  analysis. We do not use ESG as a screening tool to exclude sectors,
+  but we do believe companies with poor governance or significant ESG
+  risks carry higher cost-of-capital and lower long-term returns.
+
+  EXCLUSION LIST (by IC policy, November 2024):
+    - Large-cap social media companies (governance concerns)
+    - Manufacturers of controversial weapons
+    - Companies with active SEC fraud investigations
+
+
+SECTION 3 — RETURN AND RISK OBJECTIVES
+-----------------------------------------
+3.1 Return Objective
+  Absolute target:   CPI + 7% annualized over rolling 5-year periods.
+  Relative target:   Outperform S&P 500 by 150-250bps annually net of fees.
+
+3.2 Risk Objectives
+  Portfolio Beta:            0.85 - 1.05 (vs S&P 500)
+  Tracking Error (max):      8.0% annualized
+  Maximum Drawdown (soft):   -20% from peak (triggers IC review)
+  VaR (99%, 10-day):         Not to exceed 2.5% of portfolio value
+  Single Position Max:       2.0% of AUM (hard limit)
+  Single Sector Max:         30% of AUM (hard limit)
+
+
+SECTION 4 — ASSET ALLOCATION AND CONSTRAINTS
+-----------------------------------------------
+4.1 Permissible Securities
+  PERMITTED:
+    - U.S.-listed common stocks (NYSE, NASDAQ, NYSE American)
+    - ADRs (American Depositary Receipts) of foreign companies
+    - ETFs for tactical hedging (max 10% of portfolio)
+    - Investment-grade bonds (up to 10% of portfolio for income mandates)
+    - Cash and money market instruments (no limit)
+
+  NOT PERMITTED:
+    - Derivatives (options, futures) — except for approved hedging programs
+    - Commodities (direct ownership)
+    - Private placements and illiquid securities (without specific IC approval)
+    - Short selling (long-only mandate)
+    - Leverage / margin trading
+
+4.2 Liquidity Requirements
+  - Minimum 80% of portfolio must be liquidatable within 5 trading days
+    without moving the market by more than 1%.
+  - No single position to exceed 5% of the underlying company's
+    average daily trading volume (90-day average).
+
+4.3 Geographic Constraints
+  - U.S. equities:          Minimum 60% of portfolio
+  - International (developed): Maximum 30% of portfolio
+  - Emerging Markets:       Maximum 10% of portfolio
+
+
+SECTION 5 — TRADING AND EXECUTION POLICY
+-------------------------------------------
+5.1 Best Execution
+  Atlas Capital is committed to achieving best execution for all client
+  trades. Factors considered: price, speed, likelihood of execution,
+  total transaction cost, and market impact.
+
+5.2 Trade Allocation
+  When multiple client accounts are eligible for the same trade, shares
+  are allocated pro-rata based on account size. No client receives
+  preferential treatment.
+
+5.3 Soft Dollars
+  Atlas Capital uses soft-dollar arrangements to pay for research and
+  execution services. Full disclosure of soft-dollar practices is provided
+  in our ADV Part 2 document.
+
+5.4 Prohibited Practices
+  - Front-running client trades with personal accounts
+  - Churning (excessive trading to generate commissions)
+  - Window dressing (buying winners before quarter-end for optics)
+  - Late trading or market timing
+
+
+SECTION 6 — PERFORMANCE MEASUREMENT & REPORTING
+--------------------------------------------------
+6.1 Benchmark
+  Primary:    S&P 500 Total Return Index
+  Secondary:  MSCI World Total Return Index (for international mandates)
+
+6.2 Reporting Schedule
+  Monthly:    Performance summary, top 10 holdings, attribution (2 pages)
+  Quarterly:  Full portfolio review, market commentary, outlook (10-15 pages)
+  Annual:     Comprehensive review, IPS review, fee schedule review
+
+6.3 Performance Calculation
+  All performance figures are calculated net of management fees,
+  trading commissions, and fund expenses. Gross and net figures
+  are reported separately. We comply with GIPS (Global Investment
+  Performance Standards) for all performance reporting.
+
+6.4 Fee Schedule (Standard Equity Mandate)
+  AUM < $10M:          1.00% annually
+  AUM $10M - $50M:     0.75% annually
+  AUM $50M - $100M:    0.60% annually
+  AUM > $100M:         0.50% annually (negotiable)
+
+  Performance Fee:     10% of annual return above S&P 500 + 200bps hurdle
+                       (high-water mark applies)
+
+  Fees billed:         Quarterly in arrears
+
+
+SECTION 7 — CONFLICTS OF INTEREST
+------------------------------------
+Atlas Capital discloses the following potential conflicts:
+
+1. Proprietary Trading:
+   Atlas Capital may trade for its own account in securities also held
+   in client portfolios. Client interests are always prioritized.
+
+2. Research Use:
+   Investment ideas may originate from the same research used for
+   our proprietary accounts. All clients receive equal access to research.
+
+3. Personal Trading:
+   Employee personal trading is governed by a strict Code of Ethics.
+   All personal trades require pre-clearance. See Chapter 4 of the
+   Employee Handbook (Insider Trading Rules).
+
+4. Board Seats:
+   Atlas Capital does not accept corporate board seats to avoid access
+   to material non-public information.
+
+5. Referral Arrangements:
+   No referral fees are paid to third parties for client introductions.
+   All fee arrangements are disclosed in the client agreement.
+
+
+SECTION 8 — REVIEW AND AMENDMENT
+-----------------------------------
+This IPS is reviewed annually and upon any material change in:
+  - Client investment objectives or financial circumstances
+  - Regulatory requirements
+  - Market conditions that render the policy obsolete
+
+Amendments require written consent from both Atlas Capital and the client.
+
+
+SECTION 9 — REGULATORY COMPLIANCE
+-------------------------------------
+Atlas Capital Management is registered as an Investment Adviser with
+the U.S. Securities and Exchange Commission (SEC).
+Registration Number: 801-XXXXXX (FICTIONAL)
+
+We are subject to:
+  - Investment Advisers Act of 1940
+  - Securities Exchange Act of 1934
+  - Dodd-Frank Wall Street Reform Act
+  - Applicable state securities laws
+
+Our compliance program includes:
+  - Annual compliance training for all employees
+  - Quarterly compliance certifications
+  - Annual examination by independent third-party auditor
+  - SEC examination readiness reviews
+
+FINRA BrokerCheck: All registered employees' backgrounds are available
+at BrokerCheck (brokercheck.finra.org).
+
+============================================================
+ACKNOWLEDGMENT:
+By engaging Atlas Capital Management, the client acknowledges receipt
+and understanding of this Investment Policy Statement.
+
+Client Signature: _________________________ Date: ___________
+Atlas Capital Authorized Signatory: ________ Date: ___________
+
+============================================================
+DISCLAIMER: This is a fictional Investment Policy Statement created
+for demonstration and educational purposes only. Atlas Capital Management
+is a fictitious entity. This document does not constitute legal,
+financial, or investment advice.
+============================================================

@@ -1,0 +1,236 @@
+============================================================
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+
+For the fiscal year ended: December 31, 2024
+Commission File Number: 001-38741
+
+GREENFIN BANKING GROUP, INC.
+(Exact name of registrant as specified in its charter)
+
+State of Incorporation: Delaware
+IRS Employer ID:        47-3892156
+Principal Office:       250 Park Avenue, New York, NY 10177
+Phone:                  (212) 555-0190
+Website:                www.greenfin-bank.com (FICTIONAL)
+Ticker Symbol:          GFBG (NYSE)
+============================================================
+
+
+PART I
+======
+
+ITEM 1. BUSINESS
+-----------------
+
+GreenFin Banking Group, Inc. ("GreenFin" or the "Company") is a diversified
+financial services company incorporated in Delaware in 2008, headquartered in
+New York City. As of December 31, 2024, GreenFin operates through three
+primary business segments:
+
+1. RETAIL BANKING
+   - 412 branch locations across 18 U.S. states
+   - 2.8 million retail deposit accounts
+   - Total retail deposits: $48.3 billion
+   - Average account balance: $17,250
+   - Digital banking users: 1.9 million (68% of retail base)
+   - Net Interest Margin (Retail): 3.42%
+
+2. COMMERCIAL & CORPORATE BANKING
+   - Middle-market focus: companies with $25M to $500M in annual revenue
+   - Total commercial loan portfolio: $31.2 billion
+   - NPL (Non-Performing Loan) Ratio: 0.82%
+   - Loan-to-Deposit Ratio: 74.3%
+   - Key sectors: technology, healthcare, real estate, manufacturing
+
+3. WEALTH MANAGEMENT & INVESTMENT ADVISORY
+   - AUM (Assets Under Management): $62.4 billion
+   - Number of advisory clients: 14,800
+   - Average AUM per client: $4.2 million
+   - Fee-based revenue (2024): $890 million
+   - YoY AUM growth: 14% (market appreciation + net new assets)
+
+
+ITEM 2. PROPERTIES
+-------------------
+GreenFin owns or leases approximately 3.2 million square feet of office and
+branch space. The corporate headquarters at 250 Park Avenue is leased through
+December 2038.
+
+
+ITEM 3. LEGAL PROCEEDINGS
+---------------------------
+Active Matters:
+- Class Action (Consumer Protection, CA): Status: Pending. Allegation: Improper
+  overdraft fee practices 2019-2022. Potential exposure: $45-80 million.
+  Management believes this is adequately reserved.
+
+- Regulatory Inquiry (FinCEN, AML): Status: Under review. DOJ has requested
+  records relating to international wire transfers 2020-2023. No charges filed.
+  Management is cooperating fully. Potential exposure: undetermined.
+
+- Patent Dispute (digital banking IP): Status: Arbitration. Expected resolution
+  Q2 2025. Potential exposure: $8-15 million.
+
+
+PART II
+=======
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON EQUITY
+------------------------------------------------
+Stock Exchange:      NYSE
+Ticker:              GFBG
+Shares Outstanding:  185.6 million (as of Jan 31, 2025)
+Market Cap:          ~$9.7 billion (at $52.35 per share close price)
+
+Quarterly Dividend History:
+  Q1 2024:   $0.32/share
+  Q2 2024:   $0.32/share
+  Q3 2024:   $0.35/share
+  Q4 2024:   $0.35/share
+  Annual:    $1.34/share  (Yield: ~2.56% at current price)
+
+Stock Price Range (2024):
+  Q1: High $48.90, Low $43.20
+  Q2: High $51.40, Low $46.80
+  Q3: High $54.70, Low $49.90
+  Q4: High $55.80, Low $50.10
+  52-Week High: $55.80
+  52-Week Low:  $43.20
+
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS
+----------------------------------------------
+
+FINANCIAL HIGHLIGHTS (FY 2024 vs FY 2023):
+  Total Revenue:            $7.84B     vs  $7.12B  (+10.1%)
+  Net Interest Income:      $4.92B     vs  $4.61B  (+6.7%)
+  Non-Interest Income:      $2.92B     vs  $2.51B  (+16.3%)
+  Provision for Loan Losses: $312M     vs  $285M   (+9.5%)
+  Non-Interest Expense:     $4.89B     vs  $4.72B  (+3.6%)
+  Pre-tax Income:           $2.64B     vs  $2.15B  (+22.8%)
+  Net Income:               $1.98B     vs  $1.61B  (+23.0%)
+  EPS (diluted):            $10.68     vs  $8.65   (+23.5%)
+
+CAPITAL RATIOS (as of Dec 31, 2024):
+  CET1 (Common Equity Tier 1):   11.8%  (Regulatory minimum: 4.5%)
+  Tier 1 Capital Ratio:          13.2%  (Regulatory minimum: 6.0%)
+  Total Capital Ratio:           15.1%  (Regulatory minimum: 8.0%)
+  Leverage Ratio:                8.4%   (Regulatory minimum: 4.0%)
+
+  NOTE: All capital ratios exceed regulatory minimums by comfortable margins,
+  providing strong buffer against economic stress scenarios.
+
+CREDIT QUALITY:
+  Non-Performing Assets (NPA):   $412M   (0.68% of total assets)
+  Net Charge-Offs (NCO):         $298M   (0.49% of average loans)
+  Allowance for Loan Losses:     $890M   (2.85x NCO coverage)
+  Watch List Credits:            $1.2B   (+8% YoY, manageable)
+
+LIQUIDITY:
+  Cash & Due from Banks:         $5.8B
+  Available Borrowing Capacity:  $18.5B  (Fed discount window + FHLB)
+  High Quality Liquid Assets:    $22.3B
+  LCR (Liquidity Coverage Ratio): 142%   (Regulatory minimum: 100%)
+
+
+ITEM 7A. QUANTITATIVE DISCLOSURES ABOUT MARKET RISK
+------------------------------------------------------
+Interest Rate Risk:
+  +100bps parallel shift:  NII impact +$180M  (+3.7%)
+  -100bps parallel shift:  NII impact -$145M  (-2.9%)
+  Economic Value of Equity (EVE) sensitivity remains within board limits.
+
+The company maintains a predominantly floating-rate loan portfolio (73%) and
+a mix of fixed/floating rate liabilities, providing natural interest rate hedging.
+
+
+ITEM 8. FINANCIAL STATEMENTS
+------------------------------
+
+CONSOLIDATED BALANCE SHEET (Dec 31, 2024, in millions):
+  ASSETS:
+    Cash & Equivalents:            $5,820
+    Investment Securities (AFS):   $18,450
+    Loans & Leases (net):          $31,200
+    Allowance for Loan Losses:     ($890)
+    Premises & Equipment:          $1,240
+    Goodwill & Intangibles:        $2,180
+    Other Assets:                  $2,910
+    TOTAL ASSETS:                  $60,910
+
+  LIABILITIES:
+    Total Deposits:                $48,300
+    Short-term Borrowings:         $2,100
+    Long-term Debt:                $4,850
+    Other Liabilities:             $1,640
+    TOTAL LIABILITIES:             $56,890
+
+  SHAREHOLDERS' EQUITY:
+    Common Stock & APIC:           $3,200
+    Retained Earnings:             $5,410
+    AOCI (Accumulated Other CI):   ($2,590)
+    Total Equity:                  $4,020
+    Book Value per Share:          $21.67
+
+
+ITEM 9A. CONTROLS AND PROCEDURES
+-----------------------------------
+Management has assessed the effectiveness of internal controls over financial
+reporting as of December 31, 2024. Management concluded that internal controls
+are effective as of this date. External auditor (Grant & Sterling LLP) issued
+an unqualified opinion on both financial statements and ICFR effectiveness.
+
+
+PART III
+=========
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS
+-------------------------------------------
+  CEO:   Patricia Williams, age 58, CEO since 2018
+         Compensation 2024: $8.2M total (base $1.5M + bonus + equity)
+  CFO:   Robert Hassan, age 51, CFO since 2020
+         Compensation 2024: $5.8M total
+  CRO:   Dr. Lisa Zhao, age 47, CRO (Chief Risk Officer) since 2021
+         Compensation 2024: $4.9M total
+
+Board Composition:
+  Total Directors: 11 (9 Independent, 2 Non-independent)
+  Female Directors: 4 (36%)
+  Diversity (non-white): 5 (45%)
+  Average Director Tenure: 6.2 years
+
+
+ITEM 14. PRINCIPAL ACCOUNTING FEES
+-------------------------------------
+  Audit Fees (2024):          $14.2M
+  Audit-Related Fees:          $2.1M
+  Tax Fees:                    $1.8M
+  All Other Fees:              $0.3M
+  Total:                       $18.4M
+  Auditor: Grant & Sterling LLP (continuous since 2015)
+
+
+============================================================
+PART IV — EXHIBIT INDEX
+Exhibit 31.1 - CEO Certification (SOX Section 302)
+Exhibit 31.2 - CFO Certification (SOX Section 302)
+Exhibit 32.1 - CEO Certification (SOX Section 906)
+Exhibit 32.2 - CFO Certification (SOX Section 906)
+============================================================
+
+SIGNATURES:
+Patricia Williams, CEO
+Robert Hassan, CFO
+Date: February 28, 2025
+
+============================================================
+DISCLAIMER: This is a fictional SEC Form 10-K filing created for
+demonstration and educational purposes only. GreenFin Banking Group,
+Patricia Williams, Robert Hassan, and all named entities/individuals
+are fictitious. This document does not constitute investment advice.
+============================================================

@@ -1,0 +1,154 @@
+============================================================
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+Date of Report (Date of earliest event reported): February 18, 2025
+
+TECHNOVA CORPORATION
+(Exact name of registrant as specified in its charter)
+
+State of Incorporation:   Delaware
+Commission File Number:   001-38741
+IRS Employer ID:          47-2391045
+Principal Office:         1 TechNova Plaza, Austin, TX 78701
+Phone:                    (512) 555-0400
+Ticker:                   TNOV (NASDAQ)
+============================================================
+
+
+ITEM 1.01 — ENTRY INTO A MATERIAL DEFINITIVE AGREEMENT
+--------------------------------------------------------
+
+On February 18, 2025, TechNova Corporation entered into a definitive
+Agreement and Plan of Merger (the "Merger Agreement") to acquire
+SecureLayer AI, Inc. ("SecureLayer"), a privately held cybersecurity
+artificial intelligence company headquartered in San Francisco, CA.
+
+ACQUISITION TERMS:
+  Total Consideration:    $1.85 billion
+  Structure:
+    - Cash:               $1.20 billion (65% of total)
+    - TNOV Stock:         $0.65 billion (35% of total; ~2.96M shares at $219.80)
+  Payment at closing:     $1.85 billion
+  Contingent earnout:     Up to $150 million based on revenue milestones
+                          (FY2026 revenue target: $280M)
+
+SECUERLAYER AI — COMPANY OVERVIEW:
+  Founded:          2019
+  Headquarters:     San Francisco, CA
+  Employees:        620
+  CEO:              Dr. Priya Nair
+  Products:         AI-powered threat detection, zero-trust architecture
+                    tooling, autonomous incident response platform
+  Annual Revenue:   $184 million (FY2024, audited)
+  Revenue Growth:   +68% YoY (FY2024 vs FY2023)
+  Gross Margin:     81%
+  EBITDA:           ($22 million) — investing phase, negative EBITDA expected
+                    to turn positive in FY2026
+
+STRATEGIC RATIONALE:
+  1. Extends TechNova AI Suite with native cybersecurity capabilities
+  2. Adds 340+ enterprise customers, including 18 Fortune 100 companies
+  3. Eliminates a competitive gap versus Peer A's recent cybersecurity push
+  4. SecureLayer's threat detection IP (47 patents) is highly complementary
+  5. Expected to be EPS accretive by Q4 2026 (post-integration)
+
+FINANCIAL IMPACT:
+  Purchase Price / LTM Revenue Multiple:  10.1x ($1.85B / $184M)
+  Purchase Price / LTM Gross Profit:      12.2x
+  EV / Forward Revenue (2025E, $240M est): 7.7x
+
+  FY2026 revenue contribution expected: $270-285M
+  Integration costs (one-time):         $45-60M over 18 months
+  EPS dilution (FY2025):               ($0.18) per diluted share
+  EPS accretion (FY2026):              $0.22 - $0.28 per diluted share
+
+FINANCING:
+  The cash portion ($1.20B) will be funded from existing cash reserves.
+  TechNova's pro forma cash position post-close: ~$7.2B.
+  No new debt financing is required.
+
+CLOSING CONDITIONS:
+  - Regulatory approvals (HSR Act filing submitted Feb 18, 2025)
+  - SecureLayer shareholder approval (expected: majority already secured
+    via signed support agreements from holders of 78% of shares)
+  - Standard representations, warranties, and covenants
+  - Expected closing: Q2 2025 (subject to regulatory timing)
+
+
+ITEM 2.02 — RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+-----------------------------------------------------------
+
+Concurrent with the acquisition announcement, TechNova Corporation
+provided the following preliminary Q1 2025 business update:
+
+Revenue guidance: Tracking toward the high end of the $4.90B - $5.05B range.
+AI Software segment: Q1 2025 QTD bookings up approximately 38% YoY.
+Cloud segment: Three additional Fortune 500 contract wins in January 2025.
+
+Full Q1 2025 results will be reported on April 28, 2025.
+
+
+ITEM 5.02 — DEPARTURE / APPOINTMENT OF OFFICERS
+-------------------------------------------------
+
+Effective upon closing of the SecureLayer acquisition:
+- Dr. Priya Nair (current SecureLayer CEO) will join TechNova as
+  Executive Vice President, Cybersecurity Solutions.
+- Dr. Nair will report directly to CEO Sarah Chen.
+- Compensation package: Base salary $650,000 + target bonus 100% of base
+  + RSU grant of 40,000 shares vesting over 4 years.
+
+
+ITEM 7.01 — REGULATION FD DISCLOSURE
+--------------------------------------
+
+TechNova will host a conference call today, February 18, 2025, at
+8:00 AM Eastern Time to discuss the acquisition.
+
+Dial-in:   (800) 555-9012 (US) / (212) 555-8900 (International)
+Webcast:   ir.technova-corp.com (FICTIONAL)
+Replay:    Available for 90 days at the IR website.
+
+Key remarks from CEO Sarah Chen (prepared):
+"SecureLayer represents the ideal bolt-on to accelerate our AI Suite
+roadmap. Cybersecurity is the fastest-growing concern among our enterprise
+customers. With this acquisition, TechNova becomes the only vendor offering
+a fully integrated AI + cybersecurity platform at enterprise scale. We have
+high conviction that this will be one of the most value-creative transactions
+in our company's history."
+
+Key remarks from CFO Michael Torres:
+"This transaction is funded entirely from our existing cash position. We
+are paying approximately 10x revenue for a company growing at 68% per year
+with 81% gross margins — a reasonable price for a category leader. We
+expect EPS accretion beginning in Q4 2026."
+
+
+ITEM 9.01 — FINANCIAL STATEMENTS AND EXHIBITS
+-----------------------------------------------
+Exhibit 2.1   Agreement and Plan of Merger, dated February 18, 2025 [Filed]
+Exhibit 99.1  Press Release dated February 18, 2025 [Filed]
+Exhibit 99.2  Investor Presentation — SecureLayer Acquisition [Filed]
+Exhibit 99.3  SecureLayer FY2024 Audited Financial Statements [Filed]
+
+
+SIGNATURES:
+Sarah L. Chen, Chief Executive Officer
+Date: February 18, 2025
+
+============================================================
+FORWARD-LOOKING STATEMENT NOTICE:
+This Form 8-K contains forward-looking statements regarding the proposed
+acquisition and projected financial impacts. These statements are subject
+to risks and uncertainties including regulatory approval, integration
+challenges, and market conditions. Actual results may differ materially.
+
+DISCLAIMER: This is a fictional SEC Form 8-K created for demonstration
+and educational purposes only. TechNova Corporation and SecureLayer AI
+are fictitious companies. This does not constitute investment advice.
+============================================================
