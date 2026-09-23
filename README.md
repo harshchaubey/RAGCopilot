@@ -1,4 +1,4 @@
-# Enterprise AI Copilot
+# RAGCopilot
 
 Access-controlled RAG system with role-based document permissions, conversation memory, and admin analytics.
 
